@@ -2,4 +2,3 @@ A countdown timer is a mechanism used to track the time remaining until a specif
 
 Screenshot of output:
 
-![Screenshot (11)](https://github.com/Pandimadevi02/COUNTDOWN-TIMER/assets/113016781/8d023bcc-0497-49a4-996d-8f35d849308c)
